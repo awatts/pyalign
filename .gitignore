@@ -1,0 +1,12 @@
+# MacOS directory info
+.DS_Store
+
+# swapfiles
+*~
+*.swp
+
+# old versions
+*.old
+
+# Elan annotations output during testing
+*.eaf
